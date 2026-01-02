@@ -1,2 +1,2 @@
 # time-series-forecasting-attention
-ARIMA vs LSTM with Attention for time series forecasting
+Advanced Time Series Forecasting with Deep Learning and Explainable AI (XAI)
